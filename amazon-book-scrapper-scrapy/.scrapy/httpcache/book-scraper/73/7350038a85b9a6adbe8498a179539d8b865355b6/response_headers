@@ -1,0 +1,18 @@
+Content-Type: text/html;charset=UTF-8
+Server: Server
+Date: Sun, 14 Oct 2018 17:23:55 GMT
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+Strict-Transport-Security: max-age=47474747;
+Vary: Accept-Encoding,User-Agent,X-Amazon-CDN-Cache
+Content-Language: en-US
+Cache-Control: no-cache
+Pragma: no-cache
+Expires: -1
+Content-Encoding: gzip
+X-Xss-Protection: 1;
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Amz-Rid: GT4DY7TTCWMC16J31A2S
+X-Cache: Miss from cloudfront
+Via: 1.1 1b6485311146ae0c98dc47b57863b828.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: Rs11X4UOGTJ5ryBqlweq57t3KHIh_Xh3PTToSWYLCpYDIAdtVx8NqQ==
